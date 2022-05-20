@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi there, I'm Kavisha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<!--
-**kavisha-nethmini/kavisha-nethmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I'm a Software Engineering Undergraduate from [London Metropolitan University, UK](https://www.londonmet.ac.uk/)
+- 🌱 I'm currently learning everything and creating the life, I love 
+- ✨ I'm always aiming to be a rainbow at the end of a thunderstorm
+<br>
+<p>
+    <a href="https://abhigyantrips.dev/">
+        <img
+             width='49%'
+            src="https://github-readme-stats.vercel.app/api?username=kavisha-nethmini&show_icons=true&theme=gruvbox&hide_border=true"
+        />
+        <img
+             width='49%'
+            src="https://github-readme-streak-stats.herokuapp.com/?user=kavisha-nethmini&theme=gruvbox&hide_border=true"
+        />
+    </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- - 📝 See my [Curriculum
+Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing)
+to get more info.
+ -->
+<br>
+<a href="https://dev.to/kaviiiiisha">
+       <img align="left" alt="Kavisha's Dev Community" width="24px" src='https://img.icons8.com/windows/344/dev.png' />
+</a>
+<a href="https://www.twitter.com/kaviiiiisha/">
+       <img align="left" alt="Kavisha's Twitter" width="24px" src='https://img.icons8.com/ios-filled/344/twitter.png' />
+</a>
+<a href="https://www.linkedin.com/in/kaviiiiisha/">
+       <img align="left" alt="Kavisha's LinkedIn" width="24px" src='https://img.icons8.com/ios/344/linkedin-circled--v1.png' />
+</a>
+<a href="https://www.instagram.com/kaviiiiisha/">
+       <img align="left" alt="Kavisha's Instagram" width="24px" src='https://img.icons8.com/ios/344/instagram-new.png' />
+</a>
+<a href="https://www.facebook.com/kavisha.neths/">
+       <img align="left" alt="Kavisha's Facebook" width="24px" src='https://img.icons8.com/ios/344/facebook-new.png' />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=kavisha-nethmini&color=green" align="left" />
+<br>
+
+***Happy Coding!*** 👩‍💻
