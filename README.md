@@ -31,13 +31,12 @@ to get more info.
 <a href="https://www.linkedin.com/in/kaviiiiisha/">
        <img align="left" alt="Kavisha's LinkedIn" width="24px" src='https://img.icons8.com/color/344/linkedin-circled--v1.png' />
 </a>
-<a href="https://www.instagram.com/kaviiiiisha/">
-       <img align="left" alt="Kavisha's Instagram" width="24px" src='https://img.icons8.com/fluency/344/instagram-new.png' />
-</a>
 <a href="https://www.facebook.com/kavisha.neths/">
        <img align="left" alt="Kavisha's Facebook" width="24px" src='https://img.icons8.com/fluency/344/facebook-new.png' />
 </a>
-
+<a href="https://www.instagram.com/kaviiiiisha/">
+       <img align="left" alt="Kavisha's Instagram" width="24px" src='https://img.icons8.com/fluency/344/instagram-new.png' />
+</a>
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=kavisha-nethmini&color=green" align="left" />
