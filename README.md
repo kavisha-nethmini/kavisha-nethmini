@@ -26,16 +26,16 @@ to get more info.
        <img align="left" alt="Kavisha's Dev Community" width="24px" src='https://img.icons8.com/windows/344/dev.png' />
 </a>
 <a href="https://www.twitter.com/kaviiiiisha/">
-       <img align="left" alt="Kavisha's Twitter" width="24px" src='https://img.icons8.com/ios-filled/344/twitter.png' />
+       <img align="left" alt="Kavisha's Twitter" width="24px" src='https://img.icons8.com/color/344/twitter--v1.png' />
 </a>
 <a href="https://www.linkedin.com/in/kaviiiiisha/">
-       <img align="left" alt="Kavisha's LinkedIn" width="24px" src='https://img.icons8.com/ios/344/linkedin-circled--v1.png' />
+       <img align="left" alt="Kavisha's LinkedIn" width="24px" src='https://img.icons8.com/color/344/linkedin-circled--v1.png' />
 </a>
 <a href="https://www.instagram.com/kaviiiiisha/">
-       <img align="left" alt="Kavisha's Instagram" width="24px" src='https://img.icons8.com/ios/344/instagram-new.png' />
+       <img align="left" alt="Kavisha's Instagram" width="24px" src='https://img.icons8.com/fluency/344/instagram-new.png' />
 </a>
 <a href="https://www.facebook.com/kavisha.neths/">
-       <img align="left" alt="Kavisha's Facebook" width="24px" src='https://img.icons8.com/ios/344/facebook-new.png' />
+       <img align="left" alt="Kavisha's Facebook" width="24px" src='https://img.icons8.com/fluency/344/facebook-new.png' />
 </a>
 
 <br>
