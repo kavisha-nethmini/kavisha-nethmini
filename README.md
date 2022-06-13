@@ -1,4 +1,4 @@
-## Hi there, I'm Kavisha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there, I'm Kavisha 👋
 
 - 👨‍🎓 I'm a Software Engineering Undergraduate from [London Metropolitan University, UK](https://www.londonmet.ac.uk/)
 - 🌱 I'm currently learning everything and creating the life, I love 
