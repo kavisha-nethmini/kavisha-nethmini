@@ -1,7 +1,7 @@
 ## Hi there, I'm Kavisha 👋
 
-- 👨‍🎓 I'm a Software Engineering Undergraduate from [London Metropolitan University, UK](https://www.londonmet.ac.uk/)
-- 🌱 I'm currently learning everything and creating the life, I love 
+- 👩‍🎓 I'm a graduate of [London Metropolitan University, UK](https://www.londonmet.ac.uk/)
+- 👩‍💻 Data Science Enthusiast | Postman Student Expert
 - ✨ I'm always aiming to be a rainbow at the end of a thunderstorm
 <br>
 <p>
