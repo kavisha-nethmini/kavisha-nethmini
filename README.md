@@ -3,6 +3,9 @@
 - 👩‍🎓 I'm a Software Engineering graduate of [London Metropolitan University, UK](https://www.londonmet.ac.uk/)
 - 👩‍💻 Data Science Enthusiast | Postman Student Expert
 - ✨ I'm always aiming to be a rainbow at the end of a thunderstorm
+  
+  [![An image of @kaviiiiisha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaviiiiisha)](https://holopin.io/@kaviiiiisha)
+  
 <br>
 <p>
     <a href="https://abhigyantrips.dev/">
